@@ -7,5 +7,4 @@ I'm currently planning to add compilation to volt-build and making the default a
 
 Important repos:
 
-- [engine](https://github.com/volt-build/volt-engine)  Going to be the engine which powers volt-build's compiler (Not ready yet. Check arena package of volt-build itself for a small reference). 
 - [build-system](https://github.com/volt-build/volt-build)  The source code of the build system itself.
