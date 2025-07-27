@@ -1,9 +1,6 @@
 # Volt (Volt-build)
 
-It is a super small and speed focused build system I wrote in Go because of the hate of shell scripts which don't function properly. 
-volt is designed to be modular, reproducible, and declarative from the start. 
-
-I'm currently planning to add compilation to volt-build and making the default a JIT compiler instead of an interpreter, for speed. 
+A Super simple build system written in Go focused on speed and simplicity, this supports incremental rebuilds and such, More features coming soon! 
 
 Important repos:
 
